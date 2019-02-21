@@ -1,4 +1,4 @@
-# ** *5 IDEAS* **
+# *5 IDEAS* 
 
 ## 1. *3D Printing*
 
