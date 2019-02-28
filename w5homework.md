@@ -15,3 +15,7 @@ All of these were scaled down versions of the internet because they could not co
 
 Robert Kahn and Vinton Cerf decided on creating an universal internet protocol or the TCP/IP (transmission control protocol / internet protocol) that allowed communication across countries.
 The internet soon after became the hotspot for the scientific and academic communities. The launching of the first website though really made the internet a more public phenomenon.
+
+sources: https://www.techopedia.com/definition/2419/internet
+
+http://www.bbc.co.uk/webwise/guides/what-is-the-internet
