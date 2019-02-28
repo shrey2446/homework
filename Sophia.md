@@ -42,4 +42,12 @@ Sophia has nine robot humanoid “siblings” who were also created by Hanson Ro
 ### HUMANOID ROBOTS
 A humanoid robot is a robot with its body shape built to resemble the human body. The design may be for
 functional purposes, such as interacting with human tools and environments, for experimental purposes,
-such as the study of bipedal locomotion, or for other purposes. 
+such as the study of bipedal locomotion, or for other purposes. The history and the firsts are a disputed conversation.
+
+#### Today's Digest
+- https://robots.ieee.org/robots/sophia/
+- https://www.masswerk.at/elizabot/
+- https://www.hansonrobotics.com/
+- https://web.archive.org/web/20080122013123/http://www.droidlogic.com/
+- https://www.forbes.com/sites/zarastone/2017/11/07/everything-you-need-to-know-about-sophia-the-worlds-first-robot-citizen/#494a13bc46fa
+- https://en.wikipedia.org/wiki/Automaton
