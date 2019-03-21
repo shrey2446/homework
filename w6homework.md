@@ -10,6 +10,8 @@ Some early local BBSs were:
 - Online's Place
 - The Keep BBS
 - Capitol City Online BBS
+- sixteencolors.net
+- BBS.net
 
 (I visited a BBS via a web browser instead of downloading/dialing it)
 
@@ -19,6 +21,7 @@ Sources:
 - http://artscene.textfiles.com/ansi/welcomes/
 - https://arstechnica.com/information-technology/2017/04/a-1986-bulletin-board-system-has-brought-the-old-web-back-to-life-in-2017/
 - http://sfhqbbs.org/telnet-dura.php
+- https://thenewstack.io/bulletin-board-systems-social-media-internet/
 
 
 ### Idea No. 36: GeoCities
