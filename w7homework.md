@@ -1,0 +1,9 @@
+# FUTURE DIARIES
+
+### Disadvantage- Lawmakers 
+
+It’s day 976 after the roborevolution. Ever since Sophia, the great humanoid-robo-master, started pushing for the rights of robots the world really has been a different place. Humanity went from pushing for just human rights, from fighting amongst human races, to fighting against the inanimate ( don’t let them hear me say that) -robots and humans. The lawmaking has been tough. Earlier no one really fully read the laws or understood the rules of our constitutions but these robots seem to absorb everything at such a fast pace it’s maddening. Why make a human write laws for the coexistence of robots and humans? Just have them do it; but wait, they don’t have an understanding of the human emotions and such complex relationships. Seems better to let the humans write the new constitutions then. I guess it makes sense, but it only makes my job harder. Law makers in the early days probably new worked so hard. Anyway, it’s been a tough day finding random big words and putting them together to make rules in formal language.
+
+### Advantage - factory owners
+
+Life has been so easy ever since we hired the humanoids. They don’t ask for crazy pays, they don’t need food breaks, rest or anything really. It’s the perfect combination of humans and machines if you ask me. They work with skill and impeccable perfection, they understand my orders, never ask for leaves or mess up the assembly. It’s paradise if you ask me. The humanoids looks human, understanding emotions but never let that cloud their performance and have a moral compass - so they could never kill me! What else could I have asked for. I have a big factory, lots of humanoid workers, a wealthy business and happy family. We don’t say grace or follow a religion but I’m glad we have what we do.
