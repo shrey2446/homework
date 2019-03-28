@@ -1,1 +1,1 @@
-![map](/user/desktop/metamedia/map.jpg)
+![map](map.jpg)
