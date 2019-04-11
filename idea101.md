@@ -1,4 +1,4 @@
-# Sophia 
+# Sophia
 
 #### Sophia is a social humanoid robot developed by Hong Kong based company Hanson Robotics, activated on February 14, 2016. Humanoid robotics is an important branch of biomimetic robotics and is not only associated with science and engineering disciplines but also deeply connected to social, legal, and ethical domains.
 
@@ -11,3 +11,9 @@ Hanson designed Sophia to be a suitable companion for the elderly at nursing hom
 or to help crowds at large events or parks. He has said that he hopes that the robot can ultimately interact with other humans sufficiently to gain social skills. He has said that Sophia would ultimately be a good fit to serve in healthcare, customer service, therapy and education. Sophia runs on artificially intelligent software that is constantly being trained in the lab, so its conversations are likely to get faster, Sophia's expressions are likely to have fewer errors, and it should answer increasingly complex questions with more accuracy.
 
 Sophia has nine robot humanoid “siblings” who were also created by Hanson Robotics. Fellow Hanson robots are Alice, Albert Einstein Hubo, BINA48, Han, Jules, Professor Einstein, Philip K. Dick Android, Zeno, and Joey Chaos.
+
+
+Links
+1. In Progress [.md](https://github.com/shrey2446/homework/blob/master/In_Progress.md) [.png](https://github.com/shrey2446/homework/blob/master/In_Progress.png)
+2. Research [.md] (https://github.com/shrey2446/homework/blob/master/Research.md) [.jpg](https://github.com/shrey2446/homework/blob/master/Research.jpg)
+3. idea101 [.md](https://github.com/shrey2446/homework/blob/master/idea101.md)
