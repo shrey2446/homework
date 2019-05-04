@@ -4,7 +4,7 @@ Date of Execution: April 3, 2019
 Medium: Digital file
 Dimensions: 6.5" by 13", res 150ppi
 
-Humanoid robots mimic the human body but obviously functions in a different manner. The artwork highlights the fact that regardless of how advanced technology gets, the robots will never be receptive to human emotions and feelings, instead we will forever live in the robot's memory as a data set. The image is the world as seen through the eyes of Sophia at a certain time and place. When clicked or requested, the program will display a data set that is linked to the person/character in the image.
+Humanoid robots mimic the human body but obviously function in a different manner. The artwork highlights the fact that regardless of how advanced technology gets, the robots will never be receptive to human emotions and feelings, instead we will forever live in the robot's memory as a data set. The image is the world as seen through the eyes of Sophia at a certain time and place. When clicked or requested, the program will display a data set that is linked to the person/character in the image.
 
 Links
 1. In Progress [.md](https://github.com/shrey2446/homework/blob/master/In_Progress.md) [.png](https://github.com/shrey2446/homework/blob/master/In_Progress.png)
