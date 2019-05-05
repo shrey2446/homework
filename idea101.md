@@ -11,8 +11,5 @@ Hanson designed Sophia to be a suitable companion for the elderly at nursing hom
 
 Sophia is the robotic talk of town due to the fact that she is the first robot to have been granted citizenship. She has even mentioned in interviews that she "wants a child". Sophia has nine robot humanoid “siblings” who were also created by Hanson Robotics. Sophia is just the beginning of a revolution that is to come with the further advancements in robotics and artificial intelligence.
 
-
-Links
-1. In Progress [.md](https://github.com/shrey2446/homework/blob/master/In_Progress.md) [.png](https://github.com/shrey2446/homework/blob/master/In_Progress.png)
-2. Research [.md] (https://github.com/shrey2446/homework/blob/master/Research.md) [.jpg](https://github.com/shrey2446/homework/blob/master/Research.jpg)
-3. idea101 [.md](https://github.com/shrey2446/homework/blob/master/idea101.md)
+! [sophiaeye] (finished_work.png)
+> Artist Shreya Agarwal repaints the relationship between humans and humanoid robots through the eyes of the early 2000s popular robot, Sophia.
